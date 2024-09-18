@@ -8,3 +8,4 @@ ghcr.io/parkervcp/yolks:wine_latest
 ghcr.io/parkervcp/installers:debian
 ghcr.io/parkervcp/yolks:dotnet_8
 ghcr.io/parkervcp/steamcmd:debian
+ghcr.io/pterodactyl/games:rust
