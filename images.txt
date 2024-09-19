@@ -11,3 +11,4 @@ ghcr.io/parkervcp/steamcmd:debian
 ghcr.io/pterodactyl/games:rust
 ghcr.io/parkervcp/yolks:debian
 ghcr.io/parkervcp/yolks:wine_staging
+ghcr.io/parkervcp/games:source
