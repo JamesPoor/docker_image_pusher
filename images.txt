@@ -16,3 +16,4 @@ ghcr.io/pterodactyl/yolks:java_8
 ghcr.io/parkervcp/games:dayz
 ghcr.io/parkervcp/steamcmd:proton
 ghcr.io/parkervcp/yolks:wine_devel
+ghcr.io/parkervcp/steamcmd:ubuntu
