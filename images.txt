@@ -4,19 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/parkervcp/yolks:wine_latest
-ghcr.io/parkervcp/installers:debian
-ghcr.io/parkervcp/yolks:dotnet_8
-ghcr.io/parkervcp/steamcmd:debian
-ghcr.io/pterodactyl/games:rust
-ghcr.io/parkervcp/yolks:debian
-ghcr.io/parkervcp/yolks:wine_staging
-ghcr.io/parkervcp/games:source
-ghcr.io/pterodactyl/yolks:java_8
-ghcr.io/parkervcp/games:dayz
-ghcr.io/parkervcp/steamcmd:proton
-ghcr.io/parkervcp/yolks:wine_devel
-ghcr.io/parkervcp/steamcmd:ubuntu
-ghcr.io/parkervcp/games:valheim
 ghcr.io/ptero-eggs/steamcmd:debian
 ghcr.io/ptero-eggs/installers:debian
