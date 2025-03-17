@@ -18,3 +18,5 @@ ghcr.io/parkervcp/steamcmd:proton
 ghcr.io/parkervcp/yolks:wine_devel
 ghcr.io/parkervcp/steamcmd:ubuntu
 ghcr.io/parkervcp/games:valheim
+ghcr.io/ptero-eggs/steamcmd:debian
+ghcr.io/ptero-eggs/installers:debian
