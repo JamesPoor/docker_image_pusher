@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/ptero-eggs/steamcmd:debian
 ghcr.io/ptero-eggs/installers:debian
---steamcmd=valheim ghcr.io/ptero-eggs/games:valheim
+--platform=ptero-eggs/games ghcr.io/ptero-eggs/games:valheim
