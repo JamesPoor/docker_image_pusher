@@ -3,6 +3,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 ghcr.io/ptero-eggs/steamcmd:debian
+ghcr.io/ptero-eggs/steamcmd:proton
 ghcr.io/ptero-eggs/installers:debian
 ghcr.io/ptero-eggs/games:valheim
 #支持指定架构
