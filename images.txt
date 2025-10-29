@@ -9,5 +9,7 @@ ghcr.io/ptero-eggs/games:valheim
 ghcr.io/ptero-eggs/yolks:debian
 ghcr.io/ptero-eggs/yolks:dotnet_8
 ghcr.io/ptero-eggs/yolks:dotnet_6
+ghcr.io/ptero-eggs/yolks:wine_latest
+ghcr.io/ptero-eggs/yolks:wine_staging
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
