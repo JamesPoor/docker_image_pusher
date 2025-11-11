@@ -5,7 +5,6 @@ on:
   push:
     branches: [ main ]
 
-
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
   ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
@@ -13,7 +12,6 @@ env:
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
 
 jobs:
-
   build:
     name: Pull
     runs-on: ubuntu-latest
@@ -24,19 +22,14 @@ jobs:
         echo "=============================================================================="
         df -hT
         echo "=============================================================================="
-
-    # 增加可用磁盘空间
+    
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
       with:
-
         root-reserve-mb: 2048
         swap-size-mb: 128
         remove-dotnet: 'true'
         remove-haskell: 'true'
-        # 如果空间还是不够用，可以把以下开启，清理出更多空间
-        # remove-android: 'true'
-        # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
     - name: Restart docker
@@ -48,7 +41,7 @@ jobs:
         echo "=============================================================================="
         df -hT
         echo "=============================================================================="
-
+    
     - name: Checkout Code
       uses: actions/checkout@v4
 
@@ -68,7 +61,7 @@ jobs:
 
     - name: Build and push image Aliyun
       run: |
-        docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
+        # 删除这里的重复登录命令
         # 数据预处理,判断镜像是否重名
         declare -A duplicate_images
         declare -A temp_map
@@ -128,7 +121,6 @@ jobs:
                 platform_prefix="${platform//\//_}_"
             fi
             echo "platform_prefix is $platform_prefix"
-
             # 获取 镜像名:版本号  例如nginx:1.25.3
             image_name_tag=$(echo "$image" | awk -F'/' '{print $NF}')
             # 获取命名空间 例如kasmweb  这里有种特殊情况 docker.io/nginx，把docker.io当成命名空间，也OK
