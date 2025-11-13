@@ -16,5 +16,3 @@
 
 # foxGamesServer
 ghcr.io/jamespoor/gameserver:latest
-
-
