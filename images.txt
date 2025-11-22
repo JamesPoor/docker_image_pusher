@@ -7,7 +7,7 @@
 #构建完成的翼龙镜像
 #ghcr.io/ptero-eggs/installers:debian
 #ghcr.io/ptero-eggs/steamcmd:debian
-
+registry.cn-hangzhou.aliyuncs.com/lcayun/steamcmd:ProjectZomboid
 #新增翼龙镜像往上放-↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 
