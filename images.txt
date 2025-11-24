@@ -2,10 +2,12 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
+#翼龙egg的debian系统
+ghcr.io/ptero-eggs/installers:debian
 #僵尸毁灭工程egg
 #registry.cn-hangzhou.aliyuncs.com/lcayun/steamcmd:ProjectZomboid
 #饥荒egg
-ghcr.io/ptero-eggs/games:source
+#ghcr.io/ptero-eggs/games:source
 # 翼龙的egg在上面
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
