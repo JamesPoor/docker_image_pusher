@@ -3,9 +3,11 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #翼龙egg的debian系统
-ghcr.io/ptero-eggs/installers:debian
+#ghcr.io/ptero-eggs/installers:debian
 #僵尸毁灭工程egg
 #registry.cn-hangzhou.aliyuncs.com/lcayun/steamcmd:ProjectZomboid
+#dayz僵尸末日egg
+ghcr.io/ptero-eggs/games:dayz
 #饥荒egg
 #ghcr.io/ptero-eggs/games:source
 # 翼龙的egg在上面
