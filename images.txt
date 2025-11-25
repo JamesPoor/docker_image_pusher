@@ -10,6 +10,8 @@
 ghcr.io/ptero-eggs/games:dayz
 #饥荒egg
 #ghcr.io/ptero-eggs/games:source
+#幻兽帕鲁支持模组
+ghcr.io/ptero-eggs/steamcmd:proton
 # 翼龙的egg在上面
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
