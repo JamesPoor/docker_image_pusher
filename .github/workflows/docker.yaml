@@ -58,6 +58,14 @@ jobs:
     - name: Build and push image Aliyun
       run: |
         docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
+         # 添加GitHub Container Registry登录（新增代码）
+        if [ -n "${{ secrets.GHCR_TOKEN }}" ]; then
+          echo "${{ secrets.GHCR_TOKEN }}" | docker login ghcr.io -u "${{ github.actor }}" --password-stdin
+          echo "✅ 已登录GitHub Container Registry"
+        else
+          echo "⚠️  GHCR_TOKEN未设置，跳过GitHub Container Registry登录"
+        fi
+        
         # 数据预处理,判断镜像是否重名
         declare -A duplicate_images
         declare -A temp_map
