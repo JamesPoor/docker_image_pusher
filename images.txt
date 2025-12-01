@@ -21,3 +21,4 @@ redis:7-alpine
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #fox-games-server镜像
+ghcr.io/jamespoor/gameserver:latest
