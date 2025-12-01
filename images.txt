@@ -17,10 +17,10 @@
 #幻兽帕鲁
 #ghcr.io/ptero-eggs/steamcmd:debian
 #帝国神话
-ghcr.io/ptero-eggs/steamcmd:proton
+#ghcr.io/ptero-eggs/steamcmd:proton
 # 翼龙的egg在上面
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #fox-games-server镜像
-#ghcr.io/jamespoor/gameserver:latest
+ghcr.io/jamespoor/gameserver:latest
