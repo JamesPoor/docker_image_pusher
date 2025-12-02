@@ -23,9 +23,11 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #翼龙的docker-compose
-mariadb:10.5
-redis:alpine
-pterodactylchina/panel:latest
+#mariadb:10.5
+#redis:alpine
+#pterodactylchina/panel:latest
 
+#MrDoc文档镜像
+zmister/mrdoc:v9.3
 #fox-games-server镜像
 #ghcr.io/jamespoor/gameserver:latest
