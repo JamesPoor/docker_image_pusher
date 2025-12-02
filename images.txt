@@ -28,6 +28,6 @@
 #pterodactylchina/panel:latest
 
 #MrDoc文档镜像
-zmister/mrdoc:v9.3
+#zmister/mrdoc:v9.3
 #fox-games-server镜像
-#ghcr.io/jamespoor/gameserver:latest
+ghcr.io/jamespoor/gameserver:latest
