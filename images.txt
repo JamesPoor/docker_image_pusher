@@ -22,5 +22,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+#翼龙的docker-compose
+mariadb:10.5
+redis:alpine
+pterodactylchina/panel:latest
+
 #fox-games-server镜像
-ghcr.io/jamespoor/gameserver:latest
+#ghcr.io/jamespoor/gameserver:latest
