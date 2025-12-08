@@ -31,3 +31,5 @@
 #zmister/mrdoc:v9.3
 #fox-games-server镜像
 ghcr.io/jamespoor/gameserver:latest
+
+#全新系统-游戏服务器租用平台-小徐
