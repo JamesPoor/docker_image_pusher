@@ -1,11 +1,13 @@
 #mysql:8.0
 #redis:7-alpine
 #nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
+#全新系统-游戏服务器租用平台-小徐
+#ghcr.io/jamespoor/xiaoxu-go-server:main_new
+ghcr.io/jamespoor/xiaoxu-electron-client:latest
+
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
+
 #僵尸毁灭工程egg
 #registry.cn-hangzhou.aliyuncs.com/lcayun/steamcmd:ProjectZomboid
 #dayz僵尸末日egg
@@ -18,9 +20,6 @@
 #ghcr.io/ptero-eggs/steamcmd:debian
 #帝国神话
 #ghcr.io/ptero-eggs/steamcmd:proton
-# 翼龙的egg在上面
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
 
 #翼龙的docker-compose
 #mariadb:10.5
@@ -29,9 +28,13 @@
 
 #MrDoc文档镜像
 #zmister/mrdoc:v9.3
+
 #fox-games-server镜像
 #ghcr.io/jamespoor/gameserver:latest
 
-#全新系统-游戏服务器租用平台-小徐
-#ghcr.io/jamespoor/xiaoxu-go-server:main_new
-ghcr.io/jamespoor/xiaoxu-electron-client:latest
+#支持私库
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+
+#支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
