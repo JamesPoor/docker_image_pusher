@@ -6,6 +6,11 @@
 #ghcr.io/jamespoor/xiaoxu-electron-client:latest
 ghcr.io/jamespoor/xiaoxu-game-admin:latest
 
+#csgo平台
+ghcr.io/jamespoor/go-csgo/csgo-admin:latest
+ghcr.io/jamespoor/go-csgo/csgo-api:latest
+ghcr.io/jamespoor/go-csgo/csgo-user:latest
+
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
 
