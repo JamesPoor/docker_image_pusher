@@ -4,7 +4,7 @@
 #全新系统-游戏服务器租用平台-小徐
 ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #ghcr.io/jamespoor/xiaoxu-electron-client:latest
-#ghcr.io/jamespoor/xiaoxu-game-admin:latest
+ghcr.io/jamespoor/xiaoxu-game-admin:latest
 
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
@@ -21,6 +21,8 @@ ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #ghcr.io/ptero-eggs/steamcmd:debian
 #帝国神话
 #ghcr.io/ptero-eggs/steamcmd:proton
+#SCUM人渣
+ghcr.io/ptero-eggs/yolks:wine_staging
 
 #翼龙的docker-compose
 #mariadb:10.5
