@@ -23,6 +23,8 @@ ghcr.io/jamespoor/xiaoxu-game-admin:latest
 #ghcr.io/ptero-eggs/steamcmd:proton
 #SCUM人渣
 #ghcr.io/ptero-eggs/yolks:wine_staging
+#森林之子
+ghcr.io/ptero-eggs/yolks:wine_latest
 
 #翼龙的docker-compose
 #mariadb:10.5
