@@ -26,9 +26,11 @@
 #森林之子
 #ghcr.io/ptero-eggs/yolks:wine_latest
 #泰拉瑞亚tmod
-ghcr.io/ptero-eggs/yolks:dotnet_8
+#ghcr.io/ptero-eggs/yolks:dotnet_8
+#泰拉瑞亚插件服
+ghcr.io/ptero-eggs/yolks:dotnet_6
 #泰拉瑞亚原版
-ghcr.io/ptero-eggs/yolks:debian
+#ghcr.io/ptero-eggs/yolks:debian
 
 #翼龙的docker-compose
 #mariadb:10.5
