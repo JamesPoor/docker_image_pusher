@@ -28,7 +28,7 @@
 #泰拉瑞亚tmod
 ghcr.io/ptero-eggs/yolks:dotnet_8
 #泰拉瑞亚原版
-ghcr.io/ptero-eggs/yolks:debian
+#ghcr.io/ptero-eggs/yolks:debian
 
 #翼龙的docker-compose
 #mariadb:10.5
