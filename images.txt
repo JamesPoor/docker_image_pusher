@@ -2,7 +2,7 @@
 #redis:7-alpine
 #nginx
 #全新系统-游戏服务器租用平台-小徐
-#ghcr.io/jamespoor/xiaoxu-go-server:main_new
+ghcr.io/jamespoor/xiaoxu-go-server:main_new
 ghcr.io/jamespoor/xiaoxu-electron-client:latest
 #ghcr.io/jamespoor/xiaoxu-game-admin:latest
 
