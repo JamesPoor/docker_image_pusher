@@ -13,7 +13,7 @@ ghcr.io/jamespoor/foxglobalgameserver:latest
 #ghcr.io/ptero-eggs/installers:debian
 
 #僵尸毁灭工程egg
-#registry.cn-hangzhou.aliyuncs.com/lcayun/steamcmd:ProjectZomboid
+ghcr.io/ptero-eggs/steamcmd:debian
 #dayz僵尸末日egg
 #ghcr.io/ptero-eggs/games:dayz
 #饥荒egg
