@@ -6,14 +6,14 @@
 #ghcr.io/jamespoor/xiaoxu-electron-client:latest
 #ghcr.io/jamespoor/xiaoxu-game-admin:latest
 #全新系统-国际版-游戏服务器出租平台
-ghcr.io/jamespoor/foxglobalgameserver:latest
+#ghcr.io/jamespoor/foxglobalgameserver:latest
 
 
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
 
 #僵尸毁灭工程egg
-ghcr.io/ptero-eggs/steamcmd:debian
+ccr.ccs.tencentyun.com/pterodactyl/steamcmd-parkervcp:debian
 #dayz僵尸末日egg
 #ghcr.io/ptero-eggs/games:dayz
 #饥荒egg
