@@ -8,6 +8,7 @@
 #全新系统-国际版-游戏服务器出租平台
 ghcr.io/jamespoor/foxglobalgameserver:latest
 
+
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
 
