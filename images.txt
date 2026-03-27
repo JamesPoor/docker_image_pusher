@@ -8,7 +8,7 @@
 #全新系统-国际版-游戏服务器出租平台
 #ghcr.io/jamespoor/foxglobalgameserver:latest
 #全新系统-国际版-游戏服务器出租平台-帮助中心
-ghcr.io/jamespoor/helpfoxglobalgameserver:latest
+#ghcr.io/jamespoor/helpfoxglobalgameserver:latest
 
 
 #翼龙egg的debian系统
@@ -24,8 +24,6 @@ ghcr.io/jamespoor/helpfoxglobalgameserver:latest
 #ghcr.io/ptero-eggs/steamcmd:proton
 #幻兽帕鲁
 #ghcr.io/ptero-eggs/steamcmd:debian
-#帝国神话
-#ghcr.io/ptero-eggs/steamcmd:proton
 #SCUM人渣
 #ghcr.io/ptero-eggs/yolks:wine_staging
 #森林之子
