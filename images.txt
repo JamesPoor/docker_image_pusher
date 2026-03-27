@@ -1,5 +1,8 @@
 #mysql:8.0
 #redis:7-alpine
+#Java
+ghcr.io/ptero-eggs/yolks:java_25
+ghcr.io/ptero-eggs/yolks:java_22
 #nginx
 #全新系统-游戏服务器租用平台-小徐
 #ghcr.io/jamespoor/xiaoxu-go-server:main_new
@@ -34,6 +37,8 @@
 #ghcr.io/ptero-eggs/yolks:dotnet_6
 #泰拉瑞亚原版
 #ghcr.io/ptero-eggs/yolks:debian
+#英灵神殿
+ghcr.io/ptero-eggs/games:valheim
 
 #翼龙的docker-compose
 #mariadb:10.5
