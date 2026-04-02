@@ -4,7 +4,6 @@
 #ghcr.io/ptero-eggs/yolks:java_25
 #ghcr.io/ptero-eggs/yolks:java_22
 ghcr.io/ptero-eggs/yolks:java_21
-ghcr.io/ptero-eggs/yolks:java_18
 ghcr.io/ptero-eggs/yolks:java_17
 ghcr.io/ptero-eggs/yolks:java_16
 ghcr.io/ptero-eggs/yolks:java_11
