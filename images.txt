@@ -3,6 +3,12 @@
 #Java
 #ghcr.io/ptero-eggs/yolks:java_25
 #ghcr.io/ptero-eggs/yolks:java_22
+ghcr.io/ptero-eggs/yolks:java_21
+ghcr.io/ptero-eggs/yolks:java_18
+ghcr.io/ptero-eggs/yolks:java_17
+ghcr.io/ptero-eggs/yolks:java_16
+ghcr.io/ptero-eggs/yolks:java_11
+ghcr.io/ptero-eggs/yolks:java_8
 #nginx
 #全新系统-游戏服务器租用平台-小徐
 ghcr.io/jamespoor/xiaoxu-go-server:main_new
