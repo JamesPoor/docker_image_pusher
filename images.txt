@@ -23,7 +23,6 @@ ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #ghcr.io/jamespoor/baqiu-chat-server:latest
 ghcr.io/jamespoor/baqiu-chat-web:latest
 
-
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
 
