@@ -20,9 +20,9 @@ ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #全新系统-国际版-游戏服务器出租平台-帮助中心
 #ghcr.io/jamespoor/helpfoxglobalgameserver:latest
 #叭球-客服系统
-ghcr.io/jamespoor/baqiu-chat-server:latest
-ghcr.io/jamespoor/baqiu-chat-web:latest
-
+#ghcr.io/jamespoor/baqiu-chat-server:latest
+#ghcr.io/jamespoor/baqiu-chat-web:latest
+ghcr.io/jamespoor/baqiu-admin-new:latest
 
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
