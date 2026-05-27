@@ -49,6 +49,8 @@ ghcr.io/jamespoor/baqiu-chat-web:latest
 #ghcr.io/ptero-eggs/yolks:debian
 #英灵神殿
 #ghcr.io/ptero-eggs/games:valheim
+#腐蚀
+ghcr.io/pterodactyl/games:rust
 
 #翼龙的docker-compose
 #mariadb:10.5
