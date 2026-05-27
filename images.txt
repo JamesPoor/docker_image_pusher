@@ -12,7 +12,7 @@
 
 #nginx
 #全新系统-游戏服务器租用平台-小徐
-ghcr.io/jamespoor/xiaoxu-go-server:main_new
+#ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #ghcr.io/jamespoor/xiaoxu-electron-client:latest
 #ghcr.io/jamespoor/xiaoxu-game-admin:latest
 #全新系统-国际版-游戏服务器出租平台
@@ -50,7 +50,7 @@ ghcr.io/ptero-eggs/installers:debian
 #英灵神殿
 #ghcr.io/ptero-eggs/games:valheim
 #腐蚀
-#ghcr.io/pterodactyl/games:rust
+ghcr.io/pterodactyl/games:rust
 
 #翼龙的docker-compose
 #mariadb:10.5
