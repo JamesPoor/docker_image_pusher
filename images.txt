@@ -25,7 +25,7 @@ ghcr.io/jamespoor/baqiu-chat-web:latest
 #ghcr.io/jamespoor/baqiu-admin-new:latest
 
 #翼龙egg的debian系统
-#ghcr.io/ptero-eggs/installers:debian
+ghcr.io/ptero-eggs/installers:debian
 
 #僵尸毁灭工程egg
 #ccr.ccs.tencentyun.com/pterodactyl/steamcmd-parkervcp:debian
@@ -50,7 +50,7 @@ ghcr.io/jamespoor/baqiu-chat-web:latest
 #英灵神殿
 #ghcr.io/ptero-eggs/games:valheim
 #腐蚀
-ghcr.io/pterodactyl/games:rust
+#ghcr.io/pterodactyl/games:rust
 
 #翼龙的docker-compose
 #mariadb:10.5
