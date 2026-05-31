@@ -50,7 +50,9 @@ ghcr.io/ptero-eggs/installers:debian
 #英灵神殿
 #ghcr.io/ptero-eggs/games:valheim
 #腐蚀
-ghcr.io/pterodactyl/games:rust
+#ghcr.io/pterodactyl/games:rust
+#求生之路2
+ghcr.io/ptero-eggs/games:source
 
 #翼龙的docker-compose
 #mariadb:10.5
