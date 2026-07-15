@@ -1,6 +1,6 @@
 #mysql:8.0
 #redis:7-alpine
-minio/minio:RELEASE.2024-01-01T16-36-33Z
+#minio/minio:RELEASE.2024-01-01T16-36-33Z
 
 #我的世界容器docker
 #eclipse-temurin:8-jdk-jammy
@@ -43,6 +43,7 @@ ghcr.io/jamespoor/baqiu-chat-web:latest
 #ghcr.io/ptero-eggs/steamcmd:proton
 #幻兽帕鲁
 #ghcr.io/ptero-eggs/steamcmd:debian
+registry.yxsjmc.cn/palworld_v1:proton
 #SCUM人渣
 #ghcr.io/ptero-eggs/yolks:wine_staging
 #森林之子
