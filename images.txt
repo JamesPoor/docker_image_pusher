@@ -43,7 +43,7 @@ ghcr.io/jamespoor/xiaoxu-game-admin:latest
 #ghcr.io/ptero-eggs/steamcmd:proton
 #幻兽帕鲁
 #ghcr.io/ptero-eggs/steamcmd:debian
-registry.yxsjmc.cn/palworld_v1:proton
+#registry.yxsjmc.cn/palworld_v1:proton
 #SCUM人渣
 #ghcr.io/ptero-eggs/yolks:wine_staging
 #森林之子
