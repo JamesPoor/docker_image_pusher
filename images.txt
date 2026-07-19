@@ -30,6 +30,10 @@
 #ghcr.io/jamespoor/baqiu-chat-web:latest
 #ghcr.io/jamespoor/baqiu-admin-new:latest
 
+#全新社区平台
+ghcr.io/jamespoor/xiaoxu-go-server:latest
+
+
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
 
