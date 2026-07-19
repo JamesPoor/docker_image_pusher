@@ -34,7 +34,6 @@
 #全新社区平台
 ghcr.io/jamespoor/xiaoxu-shequ-server:latest
 
-
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
 
@@ -49,7 +48,7 @@ ghcr.io/jamespoor/xiaoxu-shequ-server:latest
 #幻兽帕鲁
 #ghcr.io/ptero-eggs/steamcmd:debian
 #registry.yxsjmc.cn/palworld_v1:proton
-ghcr.io/ptero-eggs/steamcmd:proton
+#ghcr.io/ptero-eggs/steamcmd:proton
 # 或者专门打包了注入器的第三方优化镜像
 ghcr.io/s3tupw1zard/palworld-pterodactyl-proton:latest
 #SCUM人渣
