@@ -1,7 +1,8 @@
 #mysql:8.0
 #redis:7-alpine
 #minio/minio:RELEASE.2024-01-01T16-36-33Z
-
+#livekit
+livekit/livekit-server:latest
 #我的世界容器docker
 #eclipse-temurin:8-jdk-jammy
 
@@ -31,7 +32,7 @@
 #ghcr.io/jamespoor/baqiu-admin-new:latest
 
 #全新社区平台
-ghcr.io/jamespoor/xiaoxu-go-server:latest
+#ghcr.io/jamespoor/xiaoxu-go-server:latest
 
 
 #翼龙egg的debian系统
