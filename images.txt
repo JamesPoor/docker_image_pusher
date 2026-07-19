@@ -35,6 +35,7 @@
 ghcr.io/jamespoor/xiaoxu-shequ-server:latest
 ghcr.io/jamespoor/xiaoxu-shequ-vue-web:latest
 
+
 #翼龙egg的debian系统
 #ghcr.io/ptero-eggs/installers:debian
 
