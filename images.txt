@@ -19,9 +19,9 @@
 
 #nginx
 #全新系统-游戏服务器租用平台-小徐
-#ghcr.io/jamespoor/xiaoxu-go-server:main_new
-#ghcr.io/jamespoor/xiaoxu-electron-client:latest
-#ghcr.io/jamespoor/xiaoxu-game-admin:latest
+ghcr.io/jamespoor/xiaoxu-go-server:main_new
+ghcr.io/jamespoor/xiaoxu-electron-client:latest
+ghcr.io/jamespoor/xiaoxu-game-admin:latest
 #全新系统-国际版-游戏服务器出租平台
 #ghcr.io/jamespoor/foxglobalgameserver:latest
 #全新系统-国际版-游戏服务器出租平台-帮助中心
@@ -32,8 +32,8 @@
 #ghcr.io/jamespoor/baqiu-admin-new:latest
 
 #全新社区平台
-ghcr.io/jamespoor/xiaoxu-shequ-server:latest
-ghcr.io/jamespoor/xiaoxu-shequ-vue-web:latest
+#ghcr.io/jamespoor/xiaoxu-shequ-server:latest
+#ghcr.io/jamespoor/xiaoxu-shequ-vue-web:latest
 
 
 #翼龙egg的debian系统
