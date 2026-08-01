@@ -6,7 +6,6 @@
 #我的世界容器docker
 #eclipse-temurin:8-jdk-jammy
 
-
 #Java
 #ghcr.io/ptero-eggs/yolks:java_25
 #ghcr.io/ptero-eggs/yolks:java_22
