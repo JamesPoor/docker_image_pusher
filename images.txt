@@ -18,7 +18,7 @@
 
 #nginx
 #全新系统-游戏服务器租用平台-小徐
-ghcr.io/jamespoor/xiaoxu-go-server:main_new
+#ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #ghcr.io/jamespoor/xiaoxu-electron-client:latest
 #ghcr.io/jamespoor/xiaoxu-game-admin:latest
 #全新系统-国际版-游戏服务器出租平台
@@ -31,8 +31,8 @@ ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #ghcr.io/jamespoor/baqiu-admin-new:latest
 
 #全新社区平台
-#ghcr.io/jamespoor/xiaoxu-shequ-server:latest
-#ghcr.io/jamespoor/xiaoxu-shequ-vue-web:latest
+ghcr.io/jamespoor/xiaoxu-shequ-server:latest
+ghcr.io/jamespoor/xiaoxu-shequ-vue-web:latest
 
 
 #翼龙egg的debian系统
@@ -50,8 +50,8 @@ ghcr.io/jamespoor/xiaoxu-go-server:main_new
 #ghcr.io/ptero-eggs/steamcmd:debian
 #registry.yxsjmc.cn/palworld_v1:proton
 #ghcr.io/ptero-eggs/steamcmd:proton
-# 或者专门打包了注入器的第三方优化镜像
-ghcr.io/s3tupw1zard/palworld-pterodactyl-proton:latest
+#或者专门打包了注入器的第三方优化镜像
+#ghcr.io/s3tupw1zard/palworld-pterodactyl-proton:latest
 #SCUM人渣
 #ghcr.io/ptero-eggs/yolks:wine_staging
 #森林之子
