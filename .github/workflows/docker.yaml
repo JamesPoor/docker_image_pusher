@@ -25,6 +25,20 @@ jobs:
         df -hT
         echo "=============================================================================="
 
+    - name: Emergency disk cleanup (before any Action)
+      run: |
+        echo "=== Disk before ==="
+        df -hT
+        sudo rm -rf /usr/share/dotnet || true
+        sudo rm -rf /usr/local/lib/android || true
+        sudo rm -rf /opt/ghc || true
+        sudo rm -rf /opt/hostedtoolcache/CodeQL || true
+        sudo rm -rf /usr/local/share/boost || true
+        sudo rm -rf /usr/share/swift || true
+        sudo apt-get clean || true
+        docker system prune -af --volumes || true
+        echo "=== Disk after ==="
+        df -hT
     # 增加可用磁盘空间
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
