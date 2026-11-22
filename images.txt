@@ -17,6 +17,7 @@
 
 #nginx
 
+
 #全新社区平台
 ghcr.io/jamespoor/xiaoxu-shequ-server:latest
 #ghcr.io/jamespoor/xiaoxu-shequ-vue-web:latest
